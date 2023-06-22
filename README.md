@@ -5,21 +5,21 @@
 
 > `This README file provides an overview and instructions for a sample Todo application built using Spring Boot framework, without following the traditional Model-View-Controller (MVC) architectural pattern. Instead, this application takes a simpler approach for demonstration purposes.`
 ---
-### <ins>Features</ins>
+### <ins>Features :</ins>
 -
 * Add tasks to the list.
 * Mark tasks as completed.
 * Remove tasks from the list.
 * View the list of tasks.
 ---
-### Technologies Used
+### <ins>Technologies Used :</ins>
 This sample Todo application is built using the following technologies:
 
 * Java: The primary programming language used for the application logic.
 * Spring Boot: A Java-based framework for building web applications.
 * PostMan: To check the functions using HTTP Methods.
 ---
-### Usage
+### <u>Usage</u>
 Once you have the application running in your web browser, you can perform the following actions in Postman:
 
 * Add a Task: Use the POST Method. Enter a task description in the input field (Body -> raw) and write the todo objects (id, name, and flag ) in Json format and click the "Send" button. The task will be added to the list.
