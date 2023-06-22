@@ -1,11 +1,11 @@
 # SampleTodoApplication
 ---
-## Todo Application in SpringBoot without using MVC 
+Todo Application in SpringBoot without using MVC 
 =
 
 > `This README file provides an overview and instructions for a sample Todo application built using Spring Boot framework, without following the traditional Model-View-Controller (MVC) architectural pattern. Instead, this application takes a simpler approach for demonstration purposes.`
 ---
-### Features
+Features
 -
 * Add tasks to the list.
 * Mark tasks as completed.
