@@ -25,6 +25,11 @@ Once you have the application running in your web browser, you can perform the f
 * Remove a Task: Use the DELETE Method. Enter the code with the Request params and check whether the id is the same. If it is the same then the task should be deleted.
 * View Tasks: Use the GET Method. The tasks will be displayed in a list of JSON format on the screen. We can also view the done tasks and undone tasks in the list.
 ---
+### <ins>DEPLOY:</ins>
+
+This project was deployed globally by using Amazon Web Service. It automatically changes due to the CICD(Continous Integration Continous Deployment).
+
+---
 ### <ins>Acknowledgement</ins>
-> This Todo application is designed to showcase a simplified approach without utilizing the traditional MVC(Model-View-Controller) pattern.Here the codes are only for backend purposes.We can add frontend technologies also.
+> This Todo application is designed to showcase a simplified approach without utilizing the traditional MVC(Model-View-Controller) pattern. Here the codes are only for backend purposes. We can add frontend technologies also.
  
